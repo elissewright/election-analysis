@@ -4,7 +4,7 @@
 
 ### This audit was performed on behalf of the Colorado Board of Elections, in order to evaluate the congressional precinct votes for a recent election. Python was used to assess total votes per candidate, percentage of votes for each candidate, and winner based on popular vote. We also evaluated voter turnout based on county, and determined the county with the largest turnout. 
 
-## Election-Audit Results: 
+## [Election-Audit Results](https://github.com/elissewright/election-analysis/blob/main/terminalresults.png): 
 
 #### * Between three Colorado counties, there was a total of 369,711 votes case in this congressional election
 
